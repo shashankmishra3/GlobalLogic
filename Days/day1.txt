@@ -1,0 +1,77 @@
+Latest version java- Java SE 19 - 20th sept 2022
+
+what is difference b/w lossely and tightly coupling in java/oops?
+
+HTML tag- html,body,head, div,p,a,img,table,tr,th,td,column,call group,col,meta,ul,ol,dt,form,span,bold,em
+
+
+First day assignment:-
+
+Problem:-Find a online IDE to run the code.
+
+Code:-
+
+<!DOCTYPE html>
+<html style="background-color:#f3f2ee">
+<title>CARTLIDGE'S</title>
+<head>
+    <link rel="stylesheet" href=
+"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+  
+    <header>
+      <div class="first" style="background-color:black">
+    <p style="color:white">960 Spruce St.</p>
+    <p style="color:white">Trenton, NJ 08648</p>
+    <p style="color:white">609-396-3966</p>
+  </div>
+  <div class="second" >
+      <img src="https://cartlidgesqualitymeats.com/images/header_logo_lg.png">
+  <p>Hours: Thrusday- Saturday, 9:00AM-6:00PM</p>
+  </div>
+  
+    </header>
+    
+</head>
+<body>
+<div class="four">
+    <table style="width:100%">
+  <tr>
+    <th style="background-color:#800000;color:white">Home</th>
+    <th style="background-color:#800000;color:white">Products</th>
+    <th style="background-color:#800000;color:white">Location</th>
+    <th style="background-color:#800000;color:white">Contact</th>
+  </tr>
+  </table>
+    <h1>Cartlidges Quality Meats</h1>
+    <a style="color:red" href="#">609-396-3966</a>
+    <h2>About Us</h2>
+    <p>We are a retail butcher shop specializing in high quality fresh meat products.</p>
+<p>We source all products from local processors in NJ, PA, and MD, using our connections from years of experience in bringing you the finest fresh meats.</p>
+<p>Cartlidge's Quality Meats first started in The Trenton Farmers Market in the 1940's, after moving from horse-drawn carriage on the Rt 1 circle.</p>
+
+<p>After 3 generations in the Cartlidge family, in 2008, the Stoltzfus family from Lancaster, PA, purchased the business from Jim Cartlidge.</p>
+
+<p>Our goal remains the same as it has for years; bringing you fresh quality beef, pork, chicken, and more, with old fashioned quality and service.</p>
+
+
+<p>We are happy to announce that we have expanded our area inside The Trenton Farmers Market!</p>
+<img src="https://cartlidgesqualitymeats.com/images/cart_exp1.jpg" style="margin-top:20px;margin-bottom:20px">
+<img src="https://cartlidgesqualitymeats.com/images/cart_exp2.jpg" style="margin-top:20px;margin-bottom:20px">
+</div>
+ <div>
+     <center style="margin-bottom:10px">
+        
+        <!-- Add font awesome icons -->
+        <a href="#" class="fa fa-facebook" style="margin-right:10px;"></a>
+        <a href="#" class="fa fa-twitter" style="margin-right:10px"></a>
+        <a href="#" class="fa fa-pinterest" style="margin-right:10px"></a>
+        <a href="#" class="fa fa-envelope-o"></a>
+    </center>
+    <center>
+        <address>All content Copyright © 2023, http://cartlidgesqualitymeats.com. All rights reserved.</address>
+<address>All logos, unless otherwise noted are trademarks or registered trademarks of their respective companies.</address>
+    </center>
+    
+ </div> 
+</body>
+</html>

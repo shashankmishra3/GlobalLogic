@@ -1,0 +1,19 @@
+
+html
+css
+responsive css
+bootstrap
+javascript(5-6)
+git(7)
+java(8-14)
+jdbc(2 days)
+design pattern(1 days)
+advance java (3 days)
+testing(1 days)
+rdbms(3 days)
+jpa, hybernate(2 days)
+spring framework(3 days)
+spring boot(1 days)
+rest api using spring(2 days)
+static code analysis(1 days)
+devops(2 days)

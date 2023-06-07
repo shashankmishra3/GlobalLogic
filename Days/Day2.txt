@@ -1,0 +1,11 @@
+The tags on which css is not applied in general.
+
+which all tags are block tag.
+
+portfolio:-
+welcome note
+intro
+experience
+interest
+hobby
+any other info
